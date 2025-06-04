@@ -23,11 +23,12 @@ Each tile links directly to official documentation, GitHub pages, or tool refere
 
 ## 📚 Use Cases
 
-- Red team training & mentorship  
+- Penetration Testing / Red Teaming Training & Mentorship
+- Actual Offensive Security operations
 - Pentest / engagement prep  
 - OSINT and recon reference  
 - Visual companion to MITRE ATT&CK  
-- Teaching tool for cybersecurity students
+- Teaching tool/guideline for cybersecurity students
 
 ---
 
