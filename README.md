@@ -7,6 +7,7 @@ A visual reference of **118 essential tools, frameworks, and standards** used in
 ## 📄 Download
 
 🎯 **[Download Clickable PDF](./periodic_table_offsec.pdf)** (Coming Soon)
+
 Each tile links directly to official documentation, GitHub pages, or tool references.
 
 ---
