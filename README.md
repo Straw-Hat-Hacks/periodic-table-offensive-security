@@ -11,6 +11,7 @@ A visual reference of **118 essential tools, frameworks, and standards** used in
 Use this print quality PDF if you want to bring the periodic table to life.
 
 Clickable PDF (Coming Soon)
+
 Each tile links directly to official documentation, GitHub pages, or tool references.
 
 ---
