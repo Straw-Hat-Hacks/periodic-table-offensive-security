@@ -6,8 +6,11 @@ A visual reference of **118 essential tools, frameworks, and standards** used in
 
 ## 📄 Download
 
-🎯 **[Download Clickable PDF](./periodic_table_offsec.pdf)** (Coming Soon)
+🎯 **[Download Printable PDF](./periodic_table_offsec_print.pdf)**
 
+Use this print quality PDF if you want to bring the periodic table to life.
+
+Clickable PDF (Coming Soon)
 Each tile links directly to official documentation, GitHub pages, or tool references.
 
 ---
