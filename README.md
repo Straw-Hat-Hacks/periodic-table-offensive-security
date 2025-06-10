@@ -1,6 +1,6 @@
 # 🧨 Periodic Table of Offensive Security
 
-A visual reference of **118 essential tools, frameworks, and standards** used in offensive security and red teaming — organized like a periodic table.
+A visual reference of **118 essential tools, frameworks, and standards** used in offensive security and red teaming, organized like a periodic table.
 
 ![Periodic Table of Offensive Security](./periodic_table_offsec.png)
 
