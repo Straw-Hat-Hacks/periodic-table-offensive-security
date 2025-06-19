@@ -90,7 +90,6 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Im   | impacket                     | https://github.com/fortra/impacket |
 | Ws   | websploit                    | https://github.com/f4rih/websploit |
 | X-er | xsser                        | https://github.com/epsylon/xsser |
-
 | JW   | jwt_tool                     | https://github.com/ticarpi/jwt_tool |
 
 
@@ -99,7 +98,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Abbr | Name               | Link |
 |------|--------------------|------|
 | Sli  | sliver             | https://github.com/BishopFox/sliver |
-| Sb   | Seatbelt           | https://gith ub.com/GhostPack/Seatbelt |
+| Sb   | Seatbelt           | https://github.com/GhostPack/Seatbelt |
 | Au   | Autorunsc          | https://www.ninjaone.com/script-hub/autorunsc-audit-powershell-2/ |
 | REx  | RemoteExec         | https://github.com/freshfish70/RemoteExec |
 | Py   | pspy               | https://github.com/DominicBreuker/pspy |
