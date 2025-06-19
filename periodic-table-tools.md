@@ -116,16 +116,38 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Ru   | Rubeus             | https://github.com/GhostPack/Rubeus |
 | Co   | Covenant           | https://www.kali.org/tools/covenant-kbx/ |
 | Cd   | creddump           | https://github.com/moyix/creddump |
-| Dc   | 
-| 
+| Fi   | fileless-xec       | https://github.com/ariary/fileless-xec |
+| Ke   | kerbrute           | https://github.com/ropnop/kerbrute |
+| Lz   | LaZagne            | https://github.com/AlessandroZ/LaZagne |
+| Ri   | NetRipper          | https://github.com/NytroRST/NetRipper | 
+| Ps   | PsExec             | https://learn.microsoft.com/en-us/sysinternals/downloads/psexec |
+| WMI  | wmiexec-PRO        | https://github.com/XiaoliChan/wmiexec-Pro |
+| Cs   | Cobalt Strike      | https://www.cobaltstrike.com/ |
+| RC   | RunasCs            | https://github.com/antonioCoco/RunasCs |
+| nom  | ldapnomnom         | https://github.com/lkarlslund/ldapnomnom |
+| Vi   | Villain            | https://github.com/t3l3machus/Villain |
+
 
 
 ## 🟩 Frameworks & Standards
 
-| Abbr | Name            | Link |
-|------|-----------------|------|
-| MA   | MITRE ATT&CK    | https://attack.mitre.org |
-| PT   | PTES            | https://www.pentest-standard.org |
+| Abbr | Name                        | Link |
+|------|-----------------------------|------|
+| PT   | PTES                        | https://www.pentest-standard.org |
+| Ma   | Mitre Att&ck                | https://attack.mitre.org/ |
+| RTo  | Awesome Red Team Operations | https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations |
+| MM   | OSSTMM                      | https://www.isecom.org/research.html |
+| OW   | OWASP TOP 10                | https://owasp.org/www-project-top-ten/ |
+| IF   | ISSAF                       | https://untrustednetwork.net/files/issaf0.2.1.pdf |
+| Ri   | Risk Assessment             | https://owasp.org/www-project-risk-assessment-framework/ |
+| Re   | Reporting Standards         | https://www.globalreporting.org/standards/ |
+| TM   | Threat Modeling             | https://owasp.org/www-community/Threat_Modeling |
+| VA   | Vulnerability Assessment    | https://www.sans.org/blog/the-vulnerability-assessment-framework/ |
+| SDLi | Secure SDLC Framework       | https://snyk.io/articles/secure-sdlc/ |
+| AR   | Audit Ready Checklist       | https://www.vanta.com/resources/the-audit-ready-checklist |
+| Ti   | Tiber-EU                    | https://www.ecb.europa.eu/paym/cyber-resilience/tiber-eu/html/index.en.html |
+| Ki   | Cyber Kill Chain            | https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html |
+| CAf  | Cyber Assessment Framework  | https://www.ncsc.gov.uk/collection/cyber-assessment-framework |
 
 ---
 
