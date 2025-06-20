@@ -5,7 +5,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 
 ---
 
-## 🔷 Reconnaissance
+## 🔷 Reconnaissance (19 elements)
 
 | Abbr | Name             | Link |
 |------|------------------|------|
@@ -30,7 +30,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Sf   | spiderfoot       | https://github.com/smicallef/spiderfoot |
 
 
-## 🟨 Scanning & Enumeration
+## 🟨 Scanning & Enumeration (25 elements)
 
 | Abbr | Name          | Link |
 |------|---------------|------|
@@ -61,7 +61,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Hy   | Hydra         | https://www.kali.org/tools/hydra/ |
 
 
-## 🟥 Exploitation
+## 🟥 Exploitation (27 elements)
 
 | Abbr | Name                         | Link |
 |------|------------------------------|------|
@@ -90,10 +90,11 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Im   | impacket                     | https://github.com/fortra/impacket |
 | Ws   | websploit                    | https://github.com/f4rih/websploit |
 | X-er | xsser                        | https://github.com/epsylon/xsser |
+| UAC  | UACME                        | https://github.com/hfiref0x/UACME |
 | JW   | jwt_tool                     | https://github.com/ticarpi/jwt_tool |
 
 
-## 🟪 Post-Exploitation
+## 🟪 Post-Exploitation (31 elements)
 
 | Abbr | Name               | Link |
 |------|--------------------|------|
@@ -115,10 +116,13 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Ru   | Rubeus             | https://github.com/GhostPack/Rubeus |
 | Co   | Covenant           | https://www.kali.org/tools/covenant-kbx/ |
 | Cd   | creddump           | https://github.com/moyix/creddump |
+| Dc   | DumpClear          |
 | Fi   | fileless-xec       | https://github.com/ariary/fileless-xec |
 | Ke   | kerbrute           | https://github.com/ropnop/kerbrute |
 | Lz   | LaZagne            | https://github.com/AlessandroZ/LaZagne |
 | Ri   | NetRipper          | https://github.com/NytroRST/NetRipper | 
+| Fa   | FastTrack          | 
+| Le   | DataLeakage        | 
 | Ps   | PsExec             | https://learn.microsoft.com/en-us/sysinternals/downloads/psexec |
 | WMI  | wmiexec-PRO        | https://github.com/XiaoliChan/wmiexec-Pro |
 | Cs   | Cobalt Strike      | https://www.cobaltstrike.com/ |
@@ -128,7 +132,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 
 
 
-## 🟩 Frameworks & Standards
+## 🟩 Frameworks & Standards (16 elements)
 
 | Abbr | Name                        | Link |
 |------|-----------------------------|------|
@@ -143,6 +147,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | TM   | Threat Modeling             | https://owasp.org/www-community/Threat_Modeling |
 | VA   | Vulnerability Assessment    | https://www.sans.org/blog/the-vulnerability-assessment-framework/ |
 | SDLi | Secure SDLC Framework       | https://snyk.io/articles/secure-sdlc/ |
+| BT   | Blue Team Matrix            |
 | AR   | Audit Ready Checklist       | https://www.vanta.com/resources/the-audit-ready-checklist |
 | Ti   | Tiber-EU                    | https://www.ecb.europa.eu/paym/cyber-resilience/tiber-eu/html/index.en.html |
 | Ki   | Cyber Kill Chain            | https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html |
@@ -156,5 +161,6 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 - Include a valid official or GitHub link.
 - Keep abbreviation unique (2–3 letters max).
 - Use a Pull Request with a short comment on what was changed.
-- Use a Pull Request with a short comment on what was changed.
+
+📘 For full instructions, visit the [How to Contribute](https://github.com/Straw-Hat-Hacks/periodic-table-offensive-security/wiki/How-to-Contribute) page in the Wiki.
 
