@@ -50,7 +50,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | ZM   | Zmap          | https://github.com/zmap |
 | Iv   | Invicti       | https://www.invicti.com/ |
 | RS   | reconspider   | https://github.com/bhavsec/reconspider |
-| Ig   | Infoga        |   |
+| Ru   | RustScan      | https://github.com/bee-san/RustScan |
 | nk   | nikto         | https://github.com/sullo/nikto |
 | Ss   | sslscan       | https://github.com/rbsec/sslscan |
 | Ne   | Nessus        | https://www.tenable.com/products/nessus |
@@ -58,7 +58,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Sw   | SnmpWalk      | https://github.com/urbanadventurer/WhatWeb |
 | E4x  | enum4linux    | https://github.com/CiscoCXSecurity/enum4linux |
 | fx   | dalfox        | https://github.com/hahwul/dalfox |
-| Hy   | Hydra         |                                  |
+| GD   | GitDorker     | https://github.com/obheda12/GitDorker |                            |
 
 
 ## 🟥 Exploitation (27 elements)
@@ -146,7 +146,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | TM   | Threat Modeling             | https://owasp.org/www-community/Threat_Modeling |
 | VA   | Vulnerability Assessment    | https://www.sans.org/blog/the-vulnerability-assessment-framework/ |
 | SDLi | Secure SDLC Framework       | https://snyk.io/articles/secure-sdlc/ |
-| BT   | Blue Team Matrix            |
+| Ca   | CREST Pentest Guide         | https://www.crest-approved.org/wp-content/uploads/2023/04/A-Guide-to-Penetration-Testing-2022.pdf?ver |
 | AR   | Audit Ready Checklist       | https://www.vanta.com/resources/the-audit-ready-checklist |
 | Ti   | Tiber-EU                    | https://www.ecb.europa.eu/paym/cyber-resilience/tiber-eu/html/index.en.html |
 | Ki   | Cyber Kill Chain            | https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html |
