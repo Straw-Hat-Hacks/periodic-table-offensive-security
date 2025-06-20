@@ -46,7 +46,15 @@ Each tile links directly to official documentation, GitHub pages, or tool refere
 
 ## 📬 Contribute
 
-Want to add links or suggest a tool? Open an issue or PR!
+Want to suggest a tool change, addition, or replacement?
+
+📝 Edit the [`periodic-table-tools.md`](./periodic-table-tools.md) file and submit a Pull Request (PR).
+
+You can also:
+- Open an **Issue** to start a discussion
+- Join the **Discussions** tab for ideas, feedback, and feature requests
+
+💡 See the [How to Contribute](https://github.com/Straw-Hat-Hacks/periodic-table-offensive-security/wiki/How-to-Contribute) page in the Wiki for detailed guidelines.
 
 ---
 
