@@ -22,7 +22,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | ng   | recon-ng         | https://github.com/lanmaster53/recon-ng |
 | TH   | theHarvester     | https://github.com/laramies/theHarvester |
 | Cn   | Cencys           | https://search.censys.io/ |
-| Bu   | BuiltWith        | https://builtwith.com/ |
+| Wpp  | Wappalyzer       | https://www.wappalyzer.com/ |
 | mt   | Metagoofil       | https://github.com/opsdisk/metagoofil |
 | Ct   | crt.sh           | https://crt.sh/ |
 | Ho   | Holehe           | https://github.com/megadose/holehe |
@@ -43,14 +43,14 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Am   | Amass         | https://github.com/owasp-amass/amass |
 | Su   | Sublist3r     | https://github.com/aboul3la/Sublist3r |
 | Mc   | masscan       | https://github.com/robertdavidgraham/masscan |
-| Tc   | TCPScan       | 
+| Zp   | ZAP           | https://www.zaproxy.org/ |
 | Dum  | dnsenum       | https://github.com/fwaeytens/dnsenum |
 | na   | naabu         | https://github.com/projectdiscovery/naabu |
 | Ar   | arp-scan      | https://github.com/royhills/arp-scan |
 | ZM   | Zmap          | https://github.com/zmap |
 | Iv   | Invicti       | https://www.invicti.com/ |
 | RS   | reconspider   | https://github.com/bhavsec/reconspider |
-| Ig   | Infoga        | https://github.com/The404Hacking/Infoga |
+| Ig   | Infoga        |   |
 | nk   | nikto         | https://github.com/sullo/nikto |
 | Ss   | sslscan       | https://github.com/rbsec/sslscan |
 | Ne   | Nessus        | https://www.tenable.com/products/nessus |
@@ -58,7 +58,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Sw   | SnmpWalk      | https://github.com/urbanadventurer/WhatWeb |
 | E4x  | enum4linux    | https://github.com/CiscoCXSecurity/enum4linux |
 | fx   | dalfox        | https://github.com/hahwul/dalfox |
-| Hy   | Hydra         | https://www.kali.org/tools/hydra/ |
+| Hy   | Hydra         |                                  |
 
 
 ## 🟥 Exploitation (27 elements)
@@ -82,7 +82,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Hv   | Havoc                        | https://github.com/HavocFramework/Havoc |
 | Ni   | nishang                      | https://github.com/samratashok/nishang |
 | SL   | SecLists                     | https://github.com/danielmiessler/SecLists |
-| HT   | Hacktricks                   | https://book.hacktricks.wiki/en/index.html |
+| Hy   | Hydra                        | https://www.kali.org/tools/hydra/ |
 | Rev  | revshells.com                | https://www.revshells.com/ |
 | ix   | commix                       | https://github.com/commixproject/commix |
 | pP   | PetitPotam                   | https://github.com/topotam/PetitPotam | 
@@ -104,32 +104,31 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | REx  | RemoteExec         | https://github.com/freshfish70/RemoteExec |
 | Py   | pspy               | https://github.com/DominicBreuker/pspy |
 | Ak   | AccessChk          | https://learn.microsoft.com/en-us/sysinternals/downloads/accesschk |
-| Uc   | UploadExec         | 
+| Rt   | ROADtools          | https://github.com/dirkjanm/ROADtools | 
 | Mi   | Mimikatz           | https://github.com/gentilkiwi/mimikatz |
 | Pe   | PEASS-ng           | https://github.com/peass-ng/PEASS-ng |
 | Ke   | KeeThief           | https://github.com/GhostPack/KeeThief |
 | BL   | BloodHound         | https://www.kali.org/tools/bloodhound/ |
 | EM   | Empire             | https://github.com/EmpireProject/Empire |
-| PV   | PowerView          | https://github.com/PowerShellMafia/PowerSploit |
+| PS   | PowerSploit        | https://github.com/PowerShellMafia/PowerSploit |
 | SC   | SharpCradle        | https://github.com/anthemtotheego/SharpCradle |
 | Nc   | Netcat             | https://www.kali.org/tools/netcat/ |
 | Ru   | Rubeus             | https://github.com/GhostPack/Rubeus |
 | Co   | Covenant           | https://www.kali.org/tools/covenant-kbx/ |
 | Cd   | creddump           | https://github.com/moyix/creddump |
-| Dc   | DumpClear          |
+| sd   | srum-dump          | https://github.com/MarkBaggett/srum-dump |
 | Fi   | fileless-xec       | https://github.com/ariary/fileless-xec |
 | Ke   | kerbrute           | https://github.com/ropnop/kerbrute |
 | Lz   | LaZagne            | https://github.com/AlessandroZ/LaZagne |
 | Ri   | NetRipper          | https://github.com/NytroRST/NetRipper | 
-| Fa   | FastTrack          | 
-| Le   | DataLeakage        | 
+| Ce   | Certipy            | https://github.com/ly4k/Certipy |
+| dS   | dnsteal            | https://github.com/m57/dnsteal
 | Ps   | PsExec             | https://learn.microsoft.com/en-us/sysinternals/downloads/psexec |
 | WMI  | wmiexec-PRO        | https://github.com/XiaoliChan/wmiexec-Pro |
 | Cs   | Cobalt Strike      | https://www.cobaltstrike.com/ |
 | RC   | RunasCs            | https://github.com/antonioCoco/RunasCs |
 | nom  | ldapnomnom         | https://github.com/lkarlslund/ldapnomnom |
 | Vi   | Villain            | https://github.com/t3l3machus/Villain |
-
 
 
 ## 🟩 Frameworks & Standards (16 elements)
