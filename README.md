@@ -53,3 +53,10 @@ Want to add links or suggest a tool? Open an issue or PR!
 ## 📜 License
 
 Released under the [MIT License](./LICENSE) – free to use with credit.
+
+---
+
+## 📦 Legacy Versions
+
+Archived visuals from older releases are available in the [`/legacy`](./legacy) folder.
+
