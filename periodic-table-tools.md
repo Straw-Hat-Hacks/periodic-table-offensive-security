@@ -30,7 +30,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Sf   | spiderfoot       | https://github.com/smicallef/spiderfoot |
 
 
-## 🟨 Scanning & Enumeration (25 elements)
+## 🟨 Enumeration & Fuzzing (25 elements)
 
 | Abbr | Name          | Link |
 |------|---------------|------|
