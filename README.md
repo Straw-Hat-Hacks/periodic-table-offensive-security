@@ -55,6 +55,7 @@ You can also:
 - Join the **Discussions** tab for ideas, feedback, and feature requests
 
 💡 See the [How to Contribute](https://github.com/Straw-Hat-Hacks/periodic-table-offensive-security/wiki/How-to-Contribute) page in the Wiki for detailed guidelines.
+
 💬 Join the conversation in [Discussions](https://github.com/Straw-Hat-Hacks/periodic-table-offensive-security/discussions)
 
 ---
