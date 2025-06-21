@@ -72,7 +72,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Ne   | NetExec                      | https://github.com/Pennyw0rth/NetExec |
 | Re   | Responder                    | https://github.com/SpiderLabs/Responder |
 | SCg  | /bin/cat Shellcode generator | https://masterccc.github.io/tools/shellcode_gen/ |
-| Ex   | evilginx2                    | https://github.com/kgretzky/evilginx2 |
+| Ex²  | evilginx2                    | https://github.com/kgretzky/evilginx2 |
 | Ve   | Veil                         | https://github.com/Veil-Framework/Veil | 
 | UC   | unicorn                      | https://github.com/trustedsec/unicorn |
 | Pw   | pwntools                     | https://github.com/Gallopsled/pwntools |
