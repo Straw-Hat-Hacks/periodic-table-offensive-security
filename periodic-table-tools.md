@@ -49,7 +49,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Ar   | arp-scan      | https://github.com/royhills/arp-scan |
 | ZM   | Zmap          | https://github.com/zmap |
 | Iv   | Invicti       | https://www.invicti.com/ |
-| RS   | reconspider   | https://github.com/bhavsec/reconspider |
+| rs   | reconspider   | https://github.com/bhavsec/reconspider |
 | Ru   | RustScan      | https://github.com/bee-san/RustScan |
 | nk   | nikto         | https://github.com/sullo/nikto |
 | Ss   | sslscan       | https://github.com/rbsec/sslscan |
