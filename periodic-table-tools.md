@@ -120,7 +120,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | Fi   | fileless-xec       | https://github.com/ariary/fileless-xec |
 | Ke   | kerbrute           | https://github.com/ropnop/kerbrute |
 | Lz   | LaZagne            | https://github.com/AlessandroZ/LaZagne |
-| Ri   | NetRipper          | https://github.com/NytroRST/NetRipper | 
+| Li   | Ligolo-ng          | https://github.com/nicocha30/ligolo-ng | 
 | Ce   | Certipy            | https://github.com/ly4k/Certipy |
 | dS   | dnsteal            | https://github.com/m57/dnsteal
 | Ps   | PsExec             | https://learn.microsoft.com/en-us/sysinternals/downloads/psexec |
