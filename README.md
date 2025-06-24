@@ -12,7 +12,7 @@ Use this print quality PDF with CMYK profile if you want to bring the periodic t
 
 🎯 **[Download Printable PDF in Light/printer friendly "mode"](./periodic_table_offsec_print_white.pdf)**
 
-Use this print quality PDF for quick and eco-printing at home. 
+Use this print quality PDF for quick eco-printing at home. 
 
 Clickable PDF (Coming Soon)
 
