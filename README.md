@@ -8,7 +8,11 @@ A visual reference of **118 essential tools, frameworks, and standards** used in
 
 🎯 **[Download Printable PDF](./periodic_table_offsec_print.pdf)**
 
-Use this print quality PDF if you want to bring the periodic table to life.
+Use this print quality PDF with CMYK profile if you want to bring the periodic table to life.
+
+🎯 **[Download Printable PDF in Light/printer friendly "mode"](./periodic_table_offsec_print_white.pdf)**
+
+Use this print quality PDF for quick and eco-printing at home. 
 
 Clickable PDF (Coming Soon)
 
