@@ -14,7 +14,7 @@ Use this print quality PDF with CMYK profile if you want to bring the periodic t
 
 Use this print quality PDF for quick eco-printing at home. 
 
-🔗 [View Clickable PDF (Full Screen)](https://straw-hat-hacks.github.io/periodic-table-offensive-security/clickable.html)
+🔗 **[View Clickable PDF (Full Screen)](https://straw-hat-hacks.github.io/periodic-table-offensive-security/clickable.html)**
 
 Each element tile is clickable and redirects to the corresponding tool/resource.
 
