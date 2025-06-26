@@ -112,7 +112,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | EM   | Empire             | https://github.com/EmpireProject/Empire |
 | PS   | PowerSploit        | https://github.com/PowerShellMafia/PowerSploit |
 | SC   | SharpCradle        | https://github.com/anthemtotheego/SharpCradle |
-| Nc   | Netcat             | https://www.kali.org/tools/netcat/ |
+| Su   | Supernova          | https://github.com/nickvourd/Supernova |
 | Ru   | Rubeus             | https://github.com/GhostPack/Rubeus |
 | Co   | Covenant           | https://www.kali.org/tools/covenant-kbx/ |
 | Cd   | creddump           | https://github.com/moyix/creddump |
