@@ -16,7 +16,7 @@ Use this print quality PDF for quick eco-printing at home.
 
 🔗 [View Clickable PDF (Full Screen)](https://straw-hat-hacks.github.io/periodic-table-offensive-security/)
 
-Best viewed on desktop — each element tile is clickable and redirects to the corresponding tool/resource.
+Best viewed on desktop - each element tile is clickable and redirects to the corresponding tool/resource.
 
 ---
 
