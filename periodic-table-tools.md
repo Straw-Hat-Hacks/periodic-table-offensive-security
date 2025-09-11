@@ -129,7 +129,8 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | RC   | RunasCs            | https://github.com/antonioCoco/RunasCs |
 | nom  | ldapnomnom         | https://github.com/lkarlslund/ldapnomnom |
 | Vi   | Villain            | https://github.com/t3l3machus/Villain |
-
+| Ew   | Evil-WinRM         | https://github.com/Hackplayers/evil-winrm |
+| CDk  | CDK                | https://github.com/cdk-team/CDK |
 
 ## 🟩 Frameworks & Standards (16 elements)
 
