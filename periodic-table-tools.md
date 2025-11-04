@@ -88,7 +88,7 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | pP   | PetitPotam                   | https://github.com/topotam/PetitPotam | 
 | Def  | dnschef                      | https://github.com/iphelix/dnschef |
 | Im   | impacket                     | https://github.com/fortra/impacket |
-| Ws   | websploit                    | https://github.com/f4rih/websploit |
+| Ew   | Evil-WinRM         | https://github.com/Hackplayers/evil-winrm |
 | X-er | xsser                        | https://github.com/epsylon/xsser |
 | UAC  | UACME                        | https://github.com/hfiref0x/UACME |
 | JW   | jwt_tool                     | https://github.com/ticarpi/jwt_tool |
@@ -127,8 +127,9 @@ Feel free to **suggest replacements** by editing this file and submitting a Pull
 | WMI  | wmiexec-PRO        | https://github.com/XiaoliChan/wmiexec-Pro |
 | Cs   | Cobalt Strike      | https://www.cobaltstrike.com/ |
 | RC   | RunasCs            | https://github.com/antonioCoco/RunasCs |
-| nom  | ldapnomnom         | https://github.com/lkarlslund/ldapnomnom |
+| CDk  | CDK                | https://github.com/cdk-team/CDK |
 | Vi   | Villain            | https://github.com/t3l3machus/Villain |
+
 
 
 ## 🟩 Frameworks & Standards (16 elements)
